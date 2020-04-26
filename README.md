@@ -1,6 +1,6 @@
-# spam
+# spam master
 
-TE-IT A ROLL NO. 23,35,36
+TE-IT A ROLL NO. 23
 
 EMAIL/SMS SPAM CLASSIFICATION
 
