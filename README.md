@@ -1,6 +1,6 @@
-# Spam Master
-DMBI project
-TE-IT A ROLL NO. 23
+# spam
+
+TE-IT A ROLL NO. 23,35,36
 
 EMAIL/SMS SPAM CLASSIFICATION
 
