@@ -1,4 +1,4 @@
-# Spam
+# Spam Master
 DMBI project
 TE-IT A ROLL NO. 23
 
